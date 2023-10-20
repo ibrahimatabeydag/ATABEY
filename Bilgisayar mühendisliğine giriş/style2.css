@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.all{
+    background: url(pxfuel.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+
+.all .metin{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  font-family: sans-serif;
+  user-select: none;
+}
+
+.metin h1{
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    font-weight: bold;
+    width: 900px;
+    text-align: center;
+}
+
+.metin h2{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: bold;
+    width: 900px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+.metin h3{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: bold;
+    width: 900px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.metin h4{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: bold;
+    width: 900px;
+    margin-top: 10px;
+    text-align: center;
+}
